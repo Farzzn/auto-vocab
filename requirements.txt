@@ -1,0 +1,14 @@
+PyQt6
+google-genai>=3.2.0
+nltk
+wordfreq
+pysubs2
+requests
+python-dotenv
+Pillow
+winrt-Windows.Foundation
+winrt-Windows.Foundation.Collections
+winrt-Windows.Globalization
+winrt-Windows.Graphics.Imaging
+winrt-Windows.Media.Ocr
+winrt-Windows.Storage.Streams
